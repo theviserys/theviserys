@@ -5,7 +5,7 @@ I'm viserys, and I like coffee.
 you might see me working on projects in the Minecraft community.
 
 📫 How to reach me? 
-Discord: viserys#0962
+Discord: viserys#0001
 
 <!--
 **theviserys/theviserys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

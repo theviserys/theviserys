@@ -1,6 +1,6 @@
 ### Hi there 👋!
 
-I'm viserys, and I like coffee.
+I'm viserys,
 
 you might see me working on projects in the Minecraft community.
 
